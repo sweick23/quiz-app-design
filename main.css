@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+header, div{
+    border-bottom: 1px solid black;
+}
+div, .space{
+    padding: 5%;
+}
+span{
+    float: right;
+}
+
